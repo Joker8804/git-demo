@@ -1,5 +1,5 @@
-Hello,Git! 666666
-Hello,Git! 88888888
+Hello,Git! 666
+Hello,Git! 8888
 Hello,Git!
 Hello,Git!
 Hello,Git!
